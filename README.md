@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/jen-reve-encore/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for J'en Rêve Encore](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/jen-reve-encore/) |
+| **Get License** | [Secure Licensing Rights for J'en Rêve Encore](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/jen-reve-encore/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> J'entends ton nom qui résonne dans la nuit
+> Sous les néons, mon cœur qui s'enfuit
+> Tes talons claquent, bébé, c'est la folie
+> Viens dans mes bras, laisse couler l'envie
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
