@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/jen-reve-encore/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for J'en Rêve Encore](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/jen-reve-encore/) |
+| **Get License** | [License this song: J'en Rêve Encore](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/jen-reve-encore/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `c910c5f93da15cca7a60d74849b8f27d40fe60561b8b302e14bbbb33058afe62` |
 | **Timestamp** | June 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
